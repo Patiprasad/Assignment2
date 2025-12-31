@@ -1,4 +1,4 @@
-# Node.js MongoDB Person API
+# Node.js MongoDB Person API (Output screenshot attached)
 
 A RESTful Web Service using Node.js and MongoDB for managing person records.
 
